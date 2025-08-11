@@ -1,5 +1,5 @@
 ### spring-ai-protal（前端 Web）
-
+后端仓库：https://github.com/Steven-267/Steven267_AIHub
 基于 Vue 3 + Vite 的前端应用，提供 AI 聊天、多模态（图片/音频/视频）对话、PDF 问答、智能客服与旅游向导 Agent 的可视化界面。
 
 
